@@ -1,0 +1,7 @@
+.idea/
+bin/
+include/
+lib/
+lib64/
+db.sqlite3
+__pycache__/
